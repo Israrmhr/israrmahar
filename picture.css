@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html, body{
+    font-family: roboto, sans-serif, Arial;
+    background: #f0faf3;
+}
+.width-100{
+    width: 100%;
+    float: left;
+}
+.container{
+    width: 1300px;
+    margin: 0px auto;
+}
+.top-header{
+    background: #2196f3;
+    padding: 5px 0px;
+    border-bottom: 1px solid #3131315e;
+
+}
+.news-list{
+    background: #fff;
+    color: red;
+    padding: 6px;
+    font-size: 20px;
+
+}
+.headquote{
+    font-size: 20px;
+    color: #fff;
+    width: 80%;  
+}
+.header-menu{
+position: 0px 2px 5px 0px #00000036;
+}
+.logo{
+width: fit-content;
+float: left;
+
+}
+.main-menu{
+    list-style: none;
+    float: right;
+    margin-top: 20px;
+}
+.main-menu a{
+    color:  black;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight:500;
+}
+.main-menu li{
+    float: left;
+    padding: 12px 15px;
+
+}
+.main-menu a:first-child{
+    color: black;
+}
+.main-menu a:hover{
+    color: red;
+}
+.slider-width{
+    width: 100%;
+    height: auto px;
+}
+.margin-top-50{
+margin-top: 50px;
+}
+.width-33{
+width: 33%;
+float: left;
+}
+.lates-news{
+margin-left: 10px;
+margin-right: right;
+background: #fff;
+padding: 20px;
+height: 350px;
+margin-bottom: 30px;
+}
+.heading-sect{
+width: 100%;
+float: left;
+border-bottom: 1px solid #cfcfcf;
+padding-bottom: 0px;
+margin: 0px;
+margin-bottom: 15px;
+padding-top: 20px;
+border: 1px solid #cfcfcf;
+padding-top: 15px;
+padding-left: 15px;
+background: #00aed9;
+color: white;
+}
+.head-title{
+margin: 0px;
+padding: 0px;
+font-size: 16px;
+font-weight: 600;
+padding-bottom: 5px;
+
+
+}
+.gallery-head-style{
+    font-size: 28px;
+    color: #4b4848;
+    margin-bottom: 5px;
+    background-color: white;
+    padding: 2px 0px;
+    }
+    .width-25{
+       width: 25%;
+       float: left;
+    }
+    .gallery-img{
+        height: 250px;
+        width: auto;
+    }
